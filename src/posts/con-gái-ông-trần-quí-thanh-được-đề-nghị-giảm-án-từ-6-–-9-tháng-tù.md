@@ -6,10 +6,6 @@ metaDescription: x
 tags:
   - post
 ---
-
-
-
-
 <!--StartFragment-->
 
 VOV.VN - Với các tình tiết giảm nhẹ trách nhiệm hình sự mới mà bị cáo Trần Uyên Phương (con gái ông Trần Quí Thanh) vừa cung cấp bổ sung tại toà, đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM đề nghị Hội đồng xét xử phúc thẩm chấp nhận kháng cáo của bị cáo, xem xét giảm 6-9 tháng tù.
@@ -20,7 +16,7 @@ Trình bày kháng cáo, bị cáo Trần Quí Thanh đề nghị Hội đồng 
 
 <!--EndFragment-->
 
-![Kháng cáo của bà Trần Uyên Phương được đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM chấp nhận và đề nghị Hội đồng xét xử phúc thẩm xem xét giảm án từ 6 – 9 tháng tù. (Ảnh: Tỷ Huỳnh)](https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-09/h1_0.jpg)
+![](/src/assets/img/h1_0.jpg)
 
 <!--StartFragment-->
 
@@ -32,13 +28,9 @@ Nêu quan điểm luận tội đại diện Viện Kiểm sát Nhân dân Cấp
 
 Theo đại diện Viện Kiểm sát, bản án sơ thẩm của Toà án Nhân dân TP.HCM xác định hành vi, tội danh của bị cáo Thanh là “Lạm dụng tín nhiệm chiếm đoạt tài sản” là có căn cứ và đúng với các tài liệu chứng cứ có trong hồ sơ.
 
-
-
 <!--EndFragment-->
 
-![Đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM nêu quan điểm luận tội đối với cha con ông Trần Quí Thanh. (Ảnh chụp màn hình)](https://media.vov.vn/sites/default/files/styles/large_watermark/public/2024-09/img_2270.jpeg.jpg "Đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM nêu quan điểm luận tội đối với cha con ông Trần Quí Thanh. (Ảnh chụp màn hình)")
-
-
+![Đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM nêu quan điểm luận tội đối với cha con ông Trần Quí Thanh. (Ảnh chụp màn hình)](/src/assets/img/img_2270.jpeg.jpg "Đại diện Viện Kiểm sát Nhân dân Cấp cao tại TP.HCM nêu quan điểm luận tội đối với cha con ông Trần Quí Thanh. (Ảnh chụp màn hình)")
 
 <!--StartFragment-->
 
